@@ -23,7 +23,6 @@ export function Hero() {
         />
         <div className="absolute inset-0 bg-gradient-to-t from-bg-primary via-bg-primary/80 to-transparent" />
       </div>
-
       {/* Left Column (Image - Desktop Only) */}
       <div className="hidden md:block w-[55%] h-full relative z-10">
         <div className="absolute inset-0 bg-gold/10 mix-blend-overlay z-20"></div>
@@ -35,7 +34,6 @@ export function Hero() {
           className="w-full h-full object-cover object-top grayscale-[10%] contrast-110"
         />
       </div>
-
       {/* Right Column (Text Content) */}
       <div className="w-full md:w-[45%] h-full relative z-20 flex flex-col justify-center px-6 md:px-12 lg:px-20 pt-20 md:pt-0">
         <motion.div
@@ -57,9 +55,7 @@ export function Hero() {
             </h1>
           </div>
 
-          <h2 className="font-display italic text-2xl sm:text-3xl text-text-muted mt-4 mb-6">
-            Emcee · Voice Artist · Brand Ambassador
-          </h2>
+          <h2 className="font-display italic text-2xl sm:text-3xl text-text-muted mt-4 mb-6">Emcee · Voice Artist · Video Presenter </h2>
 
           <p className="font-body text-text-muted text-base sm:text-lg max-w-md leading-relaxed mb-10 text-balance">
             Bringing elegance, energy, and authenticity to every stage, screen, and campaign.
@@ -85,7 +81,6 @@ export function Hero() {
           </div>
         </motion.div>
       </div>
-
       {/* Scroll indicator */}
       <motion.div 
         className="absolute bottom-8 left-1/2 md:left-[55%] -translate-x-1/2 z-20 flex flex-col items-center gap-2"
