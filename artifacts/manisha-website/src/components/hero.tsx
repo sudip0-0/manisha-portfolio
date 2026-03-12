@@ -17,7 +17,7 @@ export function Hero() {
       <div className="absolute inset-0 md:hidden z-0">
         {/* landing page hero professional editorial portrait */}
         <img 
-          src="https://pixabay.com/get/g2d5a8d2664c27622352c84cb1b30548457b691a10e4ba9ebded812718e1996bc4e7ba4294330ece6cbcbea2cec8aeedcb2cbacd2927f73bb7900b1b7cb7a4e9a_1280.jpg" 
+          src="/manisha-hero.jpeg" 
           alt="Manisha Shrestha Background" 
           className="w-full h-full object-cover object-top opacity-30"
         />
@@ -30,9 +30,9 @@ export function Hero() {
         <div className="absolute inset-0 bg-gradient-to-r from-transparent to-bg-primary z-10"></div>
         {/* landing page hero professional editorial portrait */}
         <img 
-          src="https://pixabay.com/get/g2d5a8d2664c27622352c84cb1b30548457b691a10e4ba9ebded812718e1996bc4e7ba4294330ece6cbcbea2cec8aeedcb2cbacd2927f73bb7900b1b7cb7a4e9a_1280.jpg" 
+          src="/manisha-hero.jpeg" 
           alt="Manisha Shrestha Portrait" 
-          className="w-full h-full object-cover object-center grayscale-[20%] contrast-125"
+          className="w-full h-full object-cover object-top grayscale-[10%] contrast-110"
         />
       </div>
 
