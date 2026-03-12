@@ -52,9 +52,7 @@ export function About() {
             </div>
             
             <blockquote className="my-10 pl-6 border-l-2 border-gold py-2">
-              <p className="font-display italic text-2xl md:text-3xl text-gold-pale leading-snug">
-                "I don't just speak to an audience — I connect with them."
-              </p>
+              <p className="font-display italic text-2xl md:text-3xl text-gold-pale leading-snug">"The stage is my space, but the audience is my inspiration." </p>
             </blockquote>
           </motion.div>
 
