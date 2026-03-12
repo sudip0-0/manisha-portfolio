@@ -48,9 +48,7 @@ export function About() {
             
             <div className="font-body text-text-muted text-lg leading-relaxed space-y-6 max-w-2xl text-balance">
               <p>Based in the vibrant heart of Kathmandu, I've spent the last three years turning ordinary events into unforgettable experiences. Whether holding events, giving voice to a national campaign, or representing brands, my approach blends refined professionalism with genuine warmth.</p>
-              <p>
-                My journey began with a microphone and a passion for storytelling. Today, I partner with Nepal's leading organizations and international brands to craft narratives that resonate.
-              </p>
+              <p>My journey began with a radio jockey and a passion for storytelling. Today, I partner with Nepal's leading organizations and international brands to craft narratives that resonate.</p>
             </div>
             
             <blockquote className="my-10 pl-6 border-l-2 border-gold py-2">
