@@ -21,7 +21,7 @@ export function Services() {
     {
       title: "Public Speaking",
       icon: <Users strokeWidth={1} className="w-10 h-10 text-gold mb-6" />,
-      desc: "Keynote addresses, panel moderation, and motivational speaking for seminars, TEDx-style events, and community gatherings."
+      desc: "Fluent in public speaking with a strong background in national level debate competitions — commanding any stage with clarity, confidence, and presence."
     }
   ];
 
