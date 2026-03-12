@@ -86,9 +86,7 @@ export function Contact() {
               </div>
               <div>
                 <h4 className="font-display text-xl text-text-primary mb-1">Phone</h4>
-                <a href="tel:+9779800000000" className="font-body text-text-muted hover:text-gold transition-colors">
-                  +977 98XXXXXXXX
-                </a>
+                <a href="tel:+9779800000000" className="font-body text-text-muted hover:text-gold transition-colors">+977 9709066813</a>
               </div>
             </div>
           </div>
