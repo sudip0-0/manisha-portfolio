@@ -11,7 +11,7 @@ export function Services() {
     {
       title: "Brand Advertising",
       icon: <Megaphone strokeWidth={1} className="w-10 h-10 text-gold mb-6" />,
-      desc: "Compelling on-camera and on-ground promotion for brands, lifestyle campaigns, and consumer products."
+      desc: "Compelling on-camera and on-ground promotion for brands, lifestyle campaigns, and consumer products — with quick script retention for seamless, efficient shoots."
     },
     {
       title: "Voice Over Artistry",
