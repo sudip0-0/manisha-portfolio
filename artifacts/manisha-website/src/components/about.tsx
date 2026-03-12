@@ -2,9 +2,9 @@ import { motion } from "framer-motion";
 
 export function About() {
   const stats = [
-    { value: "100+", label: "Events Hosted" },
-    { value: "50+", label: "Brand Campaigns" },
-    { value: "5+", label: "Years Experience" },
+    { value: "50+", label: "Events Hosted" },
+    { value: "70+", label: "Brand Campaigns" },
+    { value: "3+", label: "Years Experience" },
   ];
 
   return (
