@@ -90,7 +90,7 @@ export function Contact() {
           </div>
 
           <div className="mt-12 pt-12 border-t border-border flex gap-6">
-            <a href="https://instagram.com" target="_blank" rel="noreferrer" className="w-12 h-12 border border-border rounded-full flex items-center justify-center text-text-muted hover:bg-gold hover:text-bg-primary hover:border-gold transition-all duration-300">
+            <a href="https://www.instagram.com/memanisha__/" target="_blank" rel="noreferrer" className="w-12 h-12 border border-border rounded-full flex items-center justify-center text-text-muted hover:bg-gold hover:text-bg-primary hover:border-gold transition-all duration-300">
               <Instagram className="w-5 h-5" />
             </a>
             {/* TikTok Icon placeholder using text since lucide doesn't have official tiktok */}

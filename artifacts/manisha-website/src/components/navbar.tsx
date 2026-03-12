@@ -71,7 +71,7 @@ export function Navbar() {
             
             <div className="w-[1px] h-6 bg-border mx-2"></div>
             
-            <a href="https://instagram.com" target="_blank" rel="noreferrer" className="text-text-muted hover:text-gold transition-colors">
+            <a href="https://www.instagram.com/memanisha__/" target="_blank" rel="noreferrer" className="text-text-muted hover:text-gold transition-colors">
               <Instagram className="w-4 h-4" />
             </a>
             
