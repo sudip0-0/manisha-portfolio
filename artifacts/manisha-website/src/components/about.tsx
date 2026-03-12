@@ -47,9 +47,7 @@ export function About() {
             </h2>
             
             <div className="font-body text-text-muted text-lg leading-relaxed space-y-6 max-w-2xl text-balance">
-              <p>
-                Based in the vibrant heart of Kathmandu, I've spent the last half-decade turning ordinary events into unforgettable experiences. Whether holding the room at a corporate gala, giving voice to a national campaign, or representing luxury brands, my approach blends refined professionalism with genuine warmth.
-              </p>
+              <p>Based in the vibrant heart of Kathmandu, I've spent the last half-decade turning ordinary events into unforgettable experiences. Whether holding events, giving voice to a national campaign, or representing brands, my approach blends refined professionalism with genuine warmth.</p>
               <p>
                 My journey began with a microphone and a passion for storytelling. Today, I partner with Nepal's leading organizations and international brands to craft narratives that resonate.
               </p>
