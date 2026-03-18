@@ -124,3 +124,8 @@ Thumbs.db
 
 # Replit
 .local/
+
+# Local env files
+.env
+.env.local
+.env.*.local

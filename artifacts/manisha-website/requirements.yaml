@@ -1,8 +1,0 @@
-packages:
-  "framer-motion": "Required for high-end smooth scroll reveals, animations, and custom cursor"
-  "react-hook-form": "Required for complex form state management and client-side validation"
-  "@hookform/resolvers": "Required for connecting Zod schemas to react-hook-form"
-
-notes:
-  - This is a pure frontend SPA. The contact form uses client-side validation only and simulates a success state without an actual backend submission.
-  - Using pure CSS + framer-motion for the luxury "Noir Gold" animations.
