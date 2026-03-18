@@ -26,7 +26,7 @@ export function About() {
           <div className="relative z-10 aspect-[3/4] overflow-hidden bg-bg-surface">
             {/* about section secondary portrait */}
             <img
-              src="./attached_assets/IMG_0358.jpeg"
+              src="/images/IMG_0358.jpeg"
               alt="Manisha Shrestha Speaking"
               className="w-full h-full object-cover object-center grayscale-[10%] hover:grayscale-0 hover:scale-105 transition-all duration-700 ease-out"
             />

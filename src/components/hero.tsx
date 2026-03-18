@@ -16,9 +16,9 @@ export function Hero() {
       {/* Mobile Background (Blurred Image) */}
       <div className="absolute inset-0 md:hidden z-0">
         {/* landing page hero professional editorial portrait */}
-        <img 
-          src="/manisha-hero.jpeg" 
-          alt="Manisha Shrestha Background" 
+        <img
+          src="/images/manisha-hero.jpeg"
+          alt="Manisha Shrestha Background"
           className="w-full h-full object-cover object-[center_75%] opacity-30"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-bg-primary via-bg-primary/80 to-transparent" />
@@ -28,9 +28,9 @@ export function Hero() {
         <div className="absolute inset-0 bg-gold/10 mix-blend-overlay z-20"></div>
         <div className="absolute inset-0 bg-gradient-to-r from-transparent to-bg-primary z-10"></div>
         {/* landing page hero professional editorial portrait */}
-        <img 
-          src="/manisha-hero.jpeg" 
-          alt="Manisha Shrestha Portrait" 
+        <img
+          src="/images/manisha-hero.jpeg"
+          alt="Manisha Shrestha Portrait"
           className="w-full h-full object-cover object-[center_75%] grayscale-[10%] contrast-110"
         />
       </div>
@@ -45,7 +45,7 @@ export function Hero() {
             <span className="w-8 h-[1px] bg-gold inline-block"></span>
             Kathmandu, Nepal
           </p>
-          
+
           <div className="relative mb-2">
             <span className="absolute -top-8 -left-4 font-script text-5xl sm:text-7xl text-gold-pale/30 -rotate-6 select-none">
               Manisha
@@ -67,10 +67,10 @@ export function Hero() {
               onClick={(e) => handleSmoothScroll(e, "#contact")}
               className="px-8 py-4 bg-gold text-bg-primary font-body uppercase text-xs tracking-widest font-semibold hover:bg-gold-pale hover:shadow-[0_0_20px_rgba(201,169,110,0.3)] transition-all duration-300 ease-out flex items-center gap-2 group"
             >
-              Book Me 
+              Book Me
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </a>
-            
+
             <a
               href="#portfolio"
               onClick={(e) => handleSmoothScroll(e, "#portfolio")}
@@ -82,7 +82,7 @@ export function Hero() {
         </motion.div>
       </div>
       {/* Scroll indicator */}
-      <motion.div 
+      <motion.div
         className="absolute bottom-8 left-1/2 md:left-[55%] -translate-x-1/2 z-20 flex flex-col items-center gap-2"
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
@@ -90,7 +90,7 @@ export function Hero() {
       >
         <span className="font-body text-[10px] uppercase tracking-widest text-text-muted [writing-mode:vertical-rl]">Scroll</span>
         <div className="w-[1px] h-12 bg-border relative overflow-hidden">
-          <motion.div 
+          <motion.div
             className="absolute top-0 left-0 w-full h-1/2 bg-gold"
             animate={{ top: ["-50%", "100%"] }}
             transition={{ repeat: Infinity, duration: 1.5, ease: "linear" }}
