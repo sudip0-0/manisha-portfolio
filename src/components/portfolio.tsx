@@ -17,7 +17,7 @@ interface Project {
 const projects: Project[] = [
   { id: 1, title: "Hero Motocorp Host", category: "Events", year: "2025", type: "image", src: "/images/hero_corp.jpeg?w=1200&q=80", thumb: "/images/hero_corp.jpeg?w=600&q=80" },
   { id: 2, title: "Investment Guru Host", category: "Events", year: "2025", type: "image", src: "/images/investment_guru.jpeg?w=1200&q=80", thumb: "/images/investment_guru.jpeg?w=600&q=80" },
-  { id: 3, title: "CG Brand Host", category: "Events", year: "2026", type: "image", src: "/images/cg_riddara.jpeg?w=1200&q=80", thumb: "/images/cg_riddara.jpeg?w=600&q=80" },
+  { id: 3, title: "CG Brand Host", category: "Events", year: "2026", type: "image", src: "/images/CG_PHOTO.jpeg?w=1200&q=80", thumb: "/images/CG_PHOTO.jpeg?w=600&q=80" },
   // { id: 4, title: "Himalayan Bank TVC", category: "Brand Work", year: "2023", type: "image", src: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&q=80", thumb: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80" },
   // { id: 5, title: "Tech Summit Nepal", category: "Events", year: "2023", type: "image", src: "https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=1200&q=80", thumb: "https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=600&q=80" },
   // { id: 6, title: "Boutique Hotel Launch", category: "Brand Work", year: "2022", type: "image", src: "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?w=1200&q=80", thumb: "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?w=600&q=80" },
